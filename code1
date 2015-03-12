@@ -1,0 +1,6 @@
+<?php
+
+$c_1=system("newtest3.exe knee.jpg");
+echo "执行成功！";
+
+?>
